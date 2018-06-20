@@ -57,3 +57,18 @@ s2.show()
 s2.update("transpoter","jason satham",2016,"8out of 10")
 s2.show()
 
+#Create a Expenditure class.And Initialize it
+class expendicture:
+	def __init__(self,expendicture,saving):
+		self.e=expendicture
+		self.s=saving
+	def show(self):
+		print(self.e,self.s)
+	def add(self):
+		total_salary=(self.e+self.s)
+		print(total_salary)
+x=int(input("enter expendicture spend:"))
+y=int(input("enter saving:"))
+s=expendicture(x,y)
+s.show()
+s.add()
