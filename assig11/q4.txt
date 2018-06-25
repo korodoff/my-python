@@ -1,0 +1,17 @@
+--->diffeerence between api and libaries
+-->A library is a collection of functions / objects that serves one particular 
+purpose. you could use a library in a variety of projects. (Various specialized
+ services in our case)
+ example:Uber ,Ola uses Google Maps API to show navigations and ways .
+API can be used to Get , create , update and delete the data.
+API return responses in the form of JSON.
+JSON stands for Javascript object notation.
+JSON format is representation of data in key value pair.
+
+-->An API is an interface for other programs to interact with your program 
+or library  without having direct access.( giving specifications for our
+ need to various vendors in our case)
+example:For example : Numpy is a library of Python, adding support for large,
+ multi-dimensional arrays and matrices, along with a large collection of
+ high-level mathematical functions to operate on these arrays.
+

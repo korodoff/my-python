@@ -1,0 +1,5 @@
+step1->Create a Twitter user account if you do not already have one.
+step2->Go to https://apps.twitter.com/ and log in with your Twitter user account. This step gives you a Twitter dev account under the same name as your user account.
+step3->Click “Create New App”
+step4->Fill out the form, agree to the terms, and click “Create your Twitter application”
+step5->In the next page, click on “Keys and Access Tokens” tab, and copy your “API key” and “API secret”. Scroll down and click “Create my access token”, and copy your “Access token” and “Access token secret”.
