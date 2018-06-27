@@ -1,0 +1,9 @@
+hello java!
+hello python!
+hello c!
+hello world!
+hello ----!
+hello unknown!
+jason
+vass
+trap
