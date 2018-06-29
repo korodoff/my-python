@@ -26,10 +26,10 @@ with open('q1.txt','r') as f:
 #Write a Python program to combine each line from first file
 with open('q1.txt','r') as f:
  with open('q3.txt','r') as d:
-  for line1,line2 in (f,d):
+  for line1,line2 in zip(f,d):
   print(line1+line2)
 
-
+#WAP of python to perform read and sorting of 10 random numbers
 import os
 import random
 random_list=[]
